@@ -1,0 +1,23 @@
+.about{
+    background-color: white;/*yaon digdi so background color sa about us*/
+    min-height: 100vh;
+    width: 100%;
+    }
+    .about iframe{ /* iyang float paramagkatangod lang ang description tas picture*/
+    float: left;
+    margin-right: 7%;
+    margin-left: 7%;
+    border-radius: 3px;
+    z-index: -1;
+    }
+    .about h1{
+    font-size: 27px;
+    text-align: center;
+    }
+    .about h3{
+    
+    font-size: 24px;
+    }
+    .about p{
+    font-size: 15px;
+    }
